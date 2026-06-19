@@ -101,7 +101,7 @@ Use this template to clarify key handoffs between roles:
 ## Communication Plan Template
 
 | Role | Meeting/Sync | Frequency | Attendees | Purpose |
-|------|--------------|-----------|-----------|---------|
+|------|--------------|-----------|-----------|----------|
 | PM/Product Manager/Delivery Lead Sync | Weekly | 30 min | PM, PdM, Delivery Lead | Status, risks, scope changes, escalations |
 | Delivery Standup | Daily | 15 min | Delivery Lead, Developers, QA | Progress, blockers, dependencies |
 | Technical Dependency Review | Weekly | 30 min | TPM, Eng Managers, Architects | Sequencing, blockers, integration |
